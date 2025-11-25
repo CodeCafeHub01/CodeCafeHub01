@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharusha S. Bandara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+<h1 align="center">Blogs, CODE CAFE HUB</h1>
 
 <h3 align="left">Connect with me: chatcodecafehub01@gmail.com</h3>
 <p align="left">
