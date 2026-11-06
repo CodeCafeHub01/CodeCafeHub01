@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **AI + RPA**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **ESOFT**
 
 - 💬 Ask me about **RPA**
 
